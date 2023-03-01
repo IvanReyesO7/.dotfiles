@@ -16,7 +16,7 @@ git clone git@github.com:IvanReyesO7/.dotfiles.git ~/.dotfiles
 
 ```zsh
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
-ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -s ~/.dotfiles/.vimrc ~/.vimrc
 ```
 
 4. Install Homebrew, and the software listed in the Brewfile.
